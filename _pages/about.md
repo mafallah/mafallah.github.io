@@ -11,4 +11,4 @@ I am an Assistant Professor of Finance in the [Department of Finance, Real Estat
 
 I hold a Master of Science degree in Finance from the [Illinois Institute of Technology](https://www.iit.edu/) in Chicago, IL. Prior to joining the PhD program at UTSA, I worked as an investment analyst. I am also a [CFA](https://www.cfainstitute.org/) level III candidate.
 
-I am passionate about teaching finance and enjoy interacting with students. I have taught courses at undergraduate and graduate levels, both in online and in-person formats. 
+I am passionate about teaching finance and enjoy interacting with students. I have taught courses at undergraduate and graduate levels, both in online and in-person formats. I am a proud co-advisor of the Student-Managed Investment Fund [SMIF] (https://smifclub369.com/). 
