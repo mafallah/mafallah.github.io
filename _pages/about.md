@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Finance in the Department of Finance, Real Estate and Business Law at California State University, Fresno. I received my Ph.D. in Finance from the[University of Texas at San Antonio](https://business.utsa.edu/finance/). My research interests include empirical corporate finance, mergers and acquisitions, investments, private equity, and behavioral finance. 
+I am an Assistant Professor of Finance in the Department of Finance, Real Estate and Business Law at California State University, Fresno. I received my Ph.D. in Finance from the [University of Texas at San Antonio](https://business.utsa.edu/finance/). My research interests include empirical corporate finance, mergers and acquisitions, investments, private equity, and behavioral finance. 
 
-I hold a Master of Science degree in Finance from the Illinois Institute of Technology in Chicago, IL. Prior to joining the PhD program at UTSA, I worked as an investment analyst. I am also a CFA level III candidate.
+I hold a Master of Science degree in Finance from the [Illinois Institute of Technology] (https://www.iit.edu/) in Chicago, IL. Prior to joining the PhD program at UTSA, I worked as an investment analyst. I am also a [CFA] (https://www.cfainstitute.org/) level III candidate.
 
 I am passionate about teaching finance and enjoy interacting with students from different backgrounds and cultures. I have taught courses at undergraduate and graduate levels, both in online and in-person formats.  
