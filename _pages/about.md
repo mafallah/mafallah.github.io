@@ -16,6 +16,7 @@ I am passionate about teaching finance and enjoy interacting with students. I ha
 My colleague, [Le Zhao](https://www.lezhao.page/), and I co-organize the FREBL Research Seminar Series. The Fall 2024 schedule is below. Please contact us for more information or if you are interested in presenting your work. 
 
 <div class="table-container">
+  <h2 class="FREBL Research Seminar Series-Fall 2024 Schedule">My Table Title</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -27,28 +28,28 @@ My colleague, [Le Zhao](https://www.lezhao.page/), and I co-organize the FREBL R
     </thead>
     <tbody>
       <tr>
+        <td>September 6</td>
         <td>Hyeonjoon (David) Park</td>
+        <td>Grand Valley State University</td>
+        <td>[Link]</td>
+      </tr>
+      <tr>
+        <td>October 4</td>
         <td>Pia Gupta</td>
+        <td>Cal State, Long Beach</td>
+        <td>[Link]</td>
+      </tr>
+      <tr>
+        <td>November 1</td>
         <td>Mehdi Khorram</td>
+        <td>Rochester Institute of Technology (RIT)</td>
+        <td>[Link]</td>
+      </tr>
+      <tr>
+        <td>Dec 6</td>
         <td>Alexander Zentefis</td>
-      </tr>
-      <tr>
-        <td>Hyeonjoon (David) Park</td>
-        <td>Pia Gupta</td>
-        <td>Mehdi Khorram</td>
-        <td>Alexander Zentefis</td>
-      </tr>
-      <tr>
-        <td>Row 3, Cell 1</td>
-        <td>Row 3, Cell 2</td>
-        <td>Row 3, Cell 3</td>
-        <td>Row 3, Cell 4</td>
-      </tr>
-      <tr>
-        <td>Row 4, Cell 1</td>
-        <td>Row 4, Cell 2</td>
-        <td>Row 4, Cell 3</td>
-        <td>Row 4, Cell 4</td>
+        <td>Yale School of Management</td>
+        <td>[Link]</td>
       </tr>
     </tbody>
   </table>
