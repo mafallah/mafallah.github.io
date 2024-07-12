@@ -15,3 +15,41 @@ I am passionate about teaching finance and enjoy interacting with students. I ha
 
 My colleague, [Le Zhao](https://www.lezhao.page/), and I co-organize the FREBL Research Seminar Series. The Fall 2024 schedule is below. Please contact us for more information or if you are interested in presenting your work. 
 
+<div class="table-container">
+  <table class="styled-table">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Guest Speaker</th>
+        <th>Affiliation</th>
+        <th>Registeration</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Hyeonjoon (David) Park</td>
+        <td>Pia Gupta</td>
+        <td>Mehdi Khorram</td>
+        <td>Alexander Zentefis</td>
+      </tr>
+      <tr>
+        <td>Hyeonjoon (David) Park</td>
+        <td>Pia Gupta</td>
+        <td>Mehdi Khorram</td>
+        <td>Alexander Zentefis</td>
+      </tr>
+      <tr>
+        <td>Row 3, Cell 1</td>
+        <td>Row 3, Cell 2</td>
+        <td>Row 3, Cell 3</td>
+        <td>Row 3, Cell 4</td>
+      </tr>
+      <tr>
+        <td>Row 4, Cell 1</td>
+        <td>Row 4, Cell 2</td>
+        <td>Row 4, Cell 3</td>
+        <td>Row 4, Cell 4</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
