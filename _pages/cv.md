@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Finance, University of Texas at San Antonio, 2022
+* M.S. in Finance, Illinois Institute of Technology, 2014
+* B.S. in Financial Management, Shahid Beheshti University, 2012
 
 Work experience
 ======
