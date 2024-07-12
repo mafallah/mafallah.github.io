@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there:wave:, welcome to my website!"
+title: "Hello there :wave: , welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
