@@ -16,7 +16,7 @@ I am passionate about teaching finance and enjoy interacting with students. I ha
 My colleague, [Le Zhao](https://www.lezhao.page/), and I co-organize the FREBL Research Seminar Series. The Fall 2024 schedule is below. Please contact us for more information or if you are interested in presenting your work. 
 
 <div class="table-container">
-  <h2 class="FREBL Research Seminar Series-Fall 2024 Schedule">My Table Title</h2>
+  <h2 class="table-title">FREBL Research Seminar Series-Fall 2024 Schedule</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -46,7 +46,7 @@ My colleague, [Le Zhao](https://www.lezhao.page/), and I co-organize the FREBL R
         <td>[Link]</td>
       </tr>
       <tr>
-        <td>Dec 6</td>
+        <td>December 6</td>
         <td>Alexander Zentefis</td>
         <td>Yale School of Management</td>
         <td>[Link]</td>
