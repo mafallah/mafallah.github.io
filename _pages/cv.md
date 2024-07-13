@@ -21,22 +21,18 @@ Education
   
 Publication
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-
+ 
 Working Papers
 ======
 Fallah, M., & Khorram. M. (Working Paper). Factor Momentum in Cryptocurrencies.
 Bhanot, K., Fallah, M. & Guo, J. (Working Paper). Do General Partner Incentives Impact the Duration of Private Equity Funds?
 Jauregui, A, Fallah. M, & Curry, J. (Work-in-progress). The Impact of Costco’s Relocation on Commercial Real Estate Prices.
 
-  {% endfor %}</ul>
+
   
 Discussant and 
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  
   
 Teaching
 ======
