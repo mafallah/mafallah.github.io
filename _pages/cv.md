@@ -19,21 +19,11 @@ Education
 * M.S. in Finance, Illinois Institute of Technology, 2014
 * B.S. in Financial Management, Shahid Beheshti University, 2012
 
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+Publication
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
+    
   {% endfor %}</ul>
   
 Talks
