@@ -25,7 +25,7 @@ author:
   name             : "Mo Fallah"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Finance at Craig School of Business"
-  location         : "California"
+  location         : #"California"
   employer         : "California State University, Fresno"
   URI              : "https://craig.fresnostate.edu/about/directory/fbl/fallah-mo.html"
   email            : "mfallah@csufresno.edu" 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=O-Cuf2wAAAAJ&hl=en&authuser=1"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0003-4714-9294"
+  orcid            : #"http://orcid.org/0000-0003-4714-9294"
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : https://www.researchgate.net/profile/Mo-Fallah
 
