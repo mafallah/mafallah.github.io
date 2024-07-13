@@ -9,45 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+Academic Employment 
+======
+*Assistant Professor of Finance, California State University, Fresno, 2022
+
 Education
 ======
 * Ph.D in Finance, University of Texas at San Antonio, 2022
 * M.S. in Finance, Illinois Institute of Technology, 2014
 * B.S. in Financial Management, Shahid Beheshti University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+Publication
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
+
+Working Papers
+======
+Fallah, M., & Khorram. M. (Working Paper). Factor Momentum in Cryptocurrencies.
+Bhanot, K., Fallah, M. & Guo, J. (Working Paper). Do General Partner Incentives Impact the Duration of Private Equity Funds?
+Jauregui, A, Fallah. M, & Curry, J. (Work-in-progress). The Impact of Costco’s Relocation on Commercial Real Estate Prices.
+
   {% endfor %}</ul>
   
-Talks
+Discussant and 
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -57,6 +42,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
+    
   {% endfor %}</ul>
   
 Service and leadership
