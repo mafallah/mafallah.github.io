@@ -9,16 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Academic Employment
+======
+* Assistant Professor of Finance, California State University, Fresno
+
 Education
 ======
 * Ph.D in Finance, University of Texas at San Antonio, 2022
 * M.S. in Finance, Illinois Institute of Technology, 2014
 * B.S. in Financial Management, Shahid Beheshti University, 2012
 
-Academic Employment
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+
   
 Skills
 ======
