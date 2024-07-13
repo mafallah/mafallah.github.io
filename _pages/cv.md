@@ -26,7 +26,7 @@ Publication
     
   {% endfor %}</ul>
   
-Talks
+Working Papers
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -38,19 +38,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
-
- 
-======
-*Assistant Professor of Finance, California State University, Fresno, 2022
-
-Education
+Service
 ======
 
-  
+
+
+   
 Publication
 ======
  
