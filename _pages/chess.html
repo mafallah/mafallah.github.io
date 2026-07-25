@@ -1,0 +1,69 @@
+---
+layout: archive
+title: "Chess Coach"
+permalink: /chess/
+author_profile: true
+---
+
+{% include base_path %}
+
+<link rel="stylesheet" href="{{ base_path }}/assets/css/chess-coach.css">
+
+<p>An interactive chess trainer. Practice openings with move-by-move coaching,
+or play a full game against the built-in computer. Click a piece (or drag it)
+to move. In <strong>Opening Trainer</strong> mode the highlighted squares show
+you the next book move and I'll explain the idea behind each one.</p>
+
+<div class="cc-controls">
+  <div class="cc-field">
+    <label for="cc-mode">Mode</label>
+    <select id="cc-mode">
+      <option value="trainer">Opening Trainer</option>
+      <option value="play">Play vs. Computer</option>
+    </select>
+  </div>
+
+  <div class="cc-field" id="cc-opening-wrap">
+    <label for="cc-opening">Opening</label>
+    <select id="cc-opening"></select>
+  </div>
+
+  <div class="cc-field" id="cc-color-wrap">
+    <label for="cc-color">Play as</label>
+    <select id="cc-color">
+      <option value="w">White</option>
+      <option value="b">Black</option>
+    </select>
+  </div>
+
+  <div class="cc-field" id="cc-level-wrap" style="display:none">
+    <label for="cc-level">Level</label>
+    <select id="cc-level">
+      <option value="1">Easy</option>
+      <option value="2" selected>Medium</option>
+      <option value="3">Harder</option>
+    </select>
+  </div>
+</div>
+
+<div class="cc-wrap">
+  <div class="cc-left">
+    <div id="cc-board" class="cc-board"></div>
+    <div class="cc-controls">
+      <button id="cc-new" class="cc-btn">New Game</button>
+      <button id="cc-undo" class="cc-btn cc-ghost">Undo</button>
+      <button id="cc-hint" class="cc-btn cc-ghost">Hint</button>
+      <button id="cc-flip" class="cc-btn cc-ghost">Flip Board</button>
+    </div>
+  </div>
+
+  <div class="cc-right">
+    <div id="cc-status" class="cc-badge">White to move</div>
+    <div id="cc-coach" class="cc-coach"></div>
+    <div id="cc-moves" class="cc-moves"></div>
+  </div>
+</div>
+
+<div id="cc-promo" class="cc-promo"></div>
+
+<script src="{{ base_path }}/assets/js/chess-coach.js"></script>
